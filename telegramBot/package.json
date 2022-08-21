@@ -1,0 +1,15 @@
+{
+  "name": "counting-game-for-kids",
+  "version": "1.0.0",
+  "description": "Telegram Bot for teaching kids to count simple equations. Hosted on Yandex Cloud",
+  "homepage": "https://t.me/SchitayBot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "https://t.me/domstrueboy",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^3.38.0"
+  }
+}
